@@ -1,5 +1,11 @@
 #Sales Performance Dashboard
 
+![Excel](https://img.shields.io/badge/Excel-2010-green)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 ## Project Overview
 
 This project analyses retail sales data using Microsoft Excel and Power BI to identify trends in sales performance, profitability, customer behaviour, and product performance. The objective was to transform raw transactional data into actionable business insights through interactive dashboards and data-driven recommendations.
@@ -102,8 +108,26 @@ sales-performance-dashboard
 ├── Report
 └── README.md
 
-## Author
+##Skills Demonstrated
+- Data Cleaning
+- Pivot Tables
+- Pivot Charts
+- Data Visualisation
+- Dashboard Design
+- DAX
+- KPI Development
+- Business Intelligence
+- Data Analysis
+- Business Reporting
 
+## Future Improvements
+
+- Add SQL analysis
+- Connect to live data
+- Include customer-level analysis
+- Add forecasting using Power BI
+
+## Author
 **Mahroze Adnan**
 
 GitHub: https://github.com/Mahroze01
